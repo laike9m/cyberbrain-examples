@@ -1,0 +1,4 @@
+tasks:
+  - init: npm install --global ovsx
+  - command: ovsx get laike9m.cyberbrain
+  - command: pip install -U cyberbrain
