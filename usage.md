@@ -19,6 +19,6 @@ Both the Cyberbrain Python library and editor extension have been pre-installed 
 
     ![](images/devtools.png)
     
-See the full workflow (it's same with VS Code).
+See the full workflow (it's the same with VS Code).
 
 ![usage](https://user-images.githubusercontent.com/2592205/98645630-1d579180-22e7-11eb-8860-3a844f58a252.gif)
